@@ -35,4 +35,6 @@ python -m venv .venv
 
 ## 发行版
 
-Windows x64 便携版请前往 GitHub Releases 下载。
+[Windows x64 便携版（v1.0.0）](https://github.com/LZY041017/shiguang-timepaint/releases/download/v1.0.0/TimePaint-v1.0.0-Windows.zip)
+
+下载后请解压整个文件夹，再运行其中的 `时光涂涂.exe`。
